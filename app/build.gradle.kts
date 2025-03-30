@@ -38,7 +38,7 @@ dependencies {
     implementation(libs.activity)
     implementation(libs.glide)
     implementation(libs.circleindicator)
-//    implementation(libs.autoimageslider)
+    implementation ("com.github.smarteist:Android-Image-Slider:1.4.0")
     annotationProcessor(libs.compiler)
     implementation(libs.constraintlayout)
     testImplementation(libs.junit)

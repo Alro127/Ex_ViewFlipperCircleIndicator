@@ -25,6 +25,7 @@
         <activity android:name=".ViewFlipperActivity"/>
         <activity android:name=".CircleIndicatorAndViewPagerActivity"/>
         <activity android:name=".CircleIndicator3AndViewPager2Activity"/>
+        <activity android:name=".SliderViewActivity"/>
     </application>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
